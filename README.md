@@ -4,3 +4,5 @@ By the end of this project I will have learned how to:
 
 1. Use HTML5 proficiently, showing a great understanding of HTML tags and attributes.
 2. Know when to use a PNG, SVG, JPG, or GIF. 
+3. Know how to use lists proficiently.
+4. Make a simple website. 
