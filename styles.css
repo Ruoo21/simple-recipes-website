@@ -43,21 +43,27 @@ body {
     margin: 10px;
     text-align: center;
     font-size: 20px;
-}
-
-.buffaloheader {
-    background-color: green;
-}
-
-.garlicheader {
-    background-color: orange;
-}
-
-.vegetableheader {
-    background-color: pink;
+    background-color: #FDE0D9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 button {
     color: gold;
     padding: 10px;
+}
+
+
+.headers {
+    background-color: white;
+    border: 1px solid white;
+    margin: 16px; 
+}
+
+.centerbutton {
+    text-align: center;
+}
+
+#github {
+    background-color: aquamarine;
+    box-shadow: 2px 2px 2px black;
 }
